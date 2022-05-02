@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "hirosystems.clarity-lsp",
+    "coenraads.bracket-pair-colorizer-2",
+    "denoland.vscode-deno"
+  ]
+}
